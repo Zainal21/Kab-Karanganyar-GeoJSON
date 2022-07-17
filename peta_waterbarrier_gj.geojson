@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [110.929591, -7.572602] },
+      "properties": {
+        "pid": 1,
+        "nama": "Desa Kaling, Kecamatan Tasikmadu",
+        "marker": "closedroad1.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [110.86837, -7.566637] },
+      "properties": {
+        "pid": 2,
+        "nama": "Simpang 3 Palur, Botol",
+        "marker": "closedroad1.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [110.927125, -7.589686] },
+      "properties": {
+        "pid": 3,
+        "nama": "Simpang 4 Papahan",
+        "marker": "closedroad1.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [110.950306, -7.598715] },
+      "properties": {
+        "pid": 4,
+        "nama": "Selatan Taman Pancasila",
+        "marker": "closedroad1.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [110.947997, -7.6137] },
+      "properties": {
+        "pid": 5,
+        "nama": "Gudang Kantor Lalung ",
+        "marker": "closedroad1.png"
+      }
+    }
+  ]
+}

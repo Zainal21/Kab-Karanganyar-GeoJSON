@@ -1,0 +1,581 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [110.914325, -7.585147] },
+      "properties": {
+        "pid": 1,
+        "nama": "Timur Persimpangan Jumog",
+        "marker": "lighthouse-21.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [110.901331, -7.580094] },
+      "properties": {
+        "pid": 2,
+        "nama": "Depan SDN 3 Jaten",
+        "marker": "lighthouse-21.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [110.900817, -7.579733] },
+      "properties": {
+        "pid": 3,
+        "nama": "Depan Lapangan Jaten",
+        "marker": "lighthouse-23.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [110.936356, -7.592428] },
+      "properties": {
+        "pid": 4,
+        "nama": "Selatan Tamansari Hotel",
+        "marker": "lighthouse-21.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [110.938917, -7.593086] },
+      "properties": {
+        "pid": 5,
+        "nama": "Depan BRI Cabang Karanganyar",
+        "marker": "lighthouse-21.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [110.957894, -7.598517] },
+      "properties": {
+        "pid": 6,
+        "nama": "Barat DPRD Karanganyar",
+        "marker": "lighthouse-21.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [110.953867, -7.598175] },
+      "properties": {
+        "pid": 7,
+        "nama": "Selatan Makam Pahlawan",
+        "marker": "lighthouse-21.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [110.944572, -7.597542] },
+      "properties": {
+        "pid": 8,
+        "nama": "Persimpangan Timur SFA Toserba",
+        "marker": "lighthouse-23.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [110.938711, -7.596361] },
+      "properties": {
+        "pid": 9,
+        "nama": "Persimpangan Timur SDLB Manggung",
+        "marker": "lighthouse-21.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [110.937264, -7.595975] },
+      "properties": {
+        "pid": 10,
+        "nama": "Depan Kantor PLN Manggung",
+        "marker": "lighthouse-21.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [110.913553, -7.584783] },
+      "properties": {
+        "pid": 12,
+        "nama": "Barat Persimpangan Jumog",
+        "marker": "lighthouse-21.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [110.89, -7.576089] },
+      "properties": {
+        "pid": 13,
+        "nama": "Utara Perum Dosen SMP Jaten",
+        "marker": "lighthouse-23.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [110.888419, -7.575403] },
+      "properties": {
+        "pid": 14,
+        "nama": "Depan RM Madu Sari Jaten",
+        "marker": "lighthouse-23.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [110.872164, -7.565972] },
+      "properties": {
+        "pid": 15,
+        "nama": "Depan Terminal Palur",
+        "marker": "lighthouse-23.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [110.873044, -7.565739] },
+      "properties": {
+        "pid": 16,
+        "nama": "Timur terminal Palur",
+        "marker": "lighthouse-23.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [110.762519, -7.539639] },
+      "properties": {
+        "pid": 17,
+        "nama": "Depan IHS colomadu",
+        "marker": "lighthouse-23.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [110.745336, -7.532036] },
+      "properties": {
+        "pid": 18,
+        "nama": "Selatan Lapangan TNI AU",
+        "marker": "lighthouse-21.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [110.738278, -7.531025] },
+      "properties": {
+        "pid": 19,
+        "nama": "Depan RS Lanud (2 titik)",
+        "marker": "lighthouse-23.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [110.733311, -7.530586] },
+      "properties": {
+        "pid": 20,
+        "nama": "Depan Hotel Marini Colomadu",
+        "marker": "lighthouse-23.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [110.7322, -7.530311] },
+      "properties": {
+        "pid": 21,
+        "nama": "Utara POM Bensin Bolon Colomadu",
+        "marker": "lighthouse-23.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [110.748339, -7.527631] },
+      "properties": {
+        "pid": 22,
+        "nama": "Depan SDN Malangjiwan",
+        "marker": "lighthouse-23.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [110.927653, -7.58685] },
+      "properties": {
+        "pid": 23,
+        "nama": "Utara persimpangan Papahan",
+        "marker": "lighthouse-21.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [110.927533, -7.577692] },
+      "properties": {
+        "pid": 24,
+        "nama": "Barat PG tasikmadu",
+        "marker": "lighthouse-22.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [110.930964, -7.573883] },
+      "properties": {
+        "pid": 25,
+        "nama": "Barat Persimpangan Nglano",
+        "marker": "lighthouse-23.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [110.932286, -7.574678] },
+      "properties": {
+        "pid": 26,
+        "nama": "Timur Persimpangan Nglano",
+        "marker": "lighthouse-23.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [110.935258, -7.576625] },
+      "properties": {
+        "pid": 27,
+        "nama": "Persimpangan Ngekongan Tasikmadu",
+        "marker": "lighthouse-21.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [110.939933, -7.593594] },
+      "properties": {
+        "pid": 28,
+        "nama": "Timur Kodim 0727 Karanganyar",
+        "marker": "lighthouse-21.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [110.945158, -7.595417] },
+      "properties": {
+        "pid": 29,
+        "nama": "Depan Kejaksaan Negeri Karanganyar",
+        "marker": "lighthouse-21.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [110.950214, -7.597089] },
+      "properties": {
+        "pid": 30,
+        "nama": "Barat Rumah Dinas Bupati",
+        "marker": "lighthouse-21.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [110.972825, -7.611903] },
+      "properties": {
+        "pid": 31,
+        "nama": "Persimpangan Tegelgede Ngrawoh",
+        "marker": "lighthouse-21.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [110.97415, -7.597033] },
+      "properties": {
+        "pid": 32,
+        "nama": "Persimpangan Wonorejo Bejen",
+        "marker": "lighthouse-23.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [111.029725, -7.620222] },
+      "properties": {
+        "pid": 33,
+        "nama": "Selatan Lapangan Bangsri",
+        "marker": "lighthouse-21.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [111.073856, -7.614919] },
+      "properties": {
+        "pid": 34,
+        "nama": "Depan Terminal Karangpandan",
+        "marker": "lighthouse-23.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [110.99835, -7.633081] },
+      "properties": {
+        "pid": 35,
+        "nama": "Barat Persimpangan Kutukan",
+        "marker": "lighthouse-23.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [110.999542, -7.633239] },
+      "properties": {
+        "pid": 36,
+        "nama": "Depan Kantor Desa Ngadiluwih",
+        "marker": "lighthouse-23.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [110.945047, -7.583147] },
+      "properties": {
+        "pid": 37,
+        "nama": "Timur Persimpangan Pokoh Baru",
+        "marker": "lighthouse-23.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [110.944189, -7.582686] },
+      "properties": {
+        "pid": 38,
+        "nama": "Barat Persimpangan Pokoh Baru",
+        "marker": "lighthouse-21.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [110.896153, -7.537125] },
+      "properties": {
+        "pid": 39,
+        "nama": "Depan SDN 4 Kemiri Kebakkramat",
+        "marker": "lighthouse-23.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [110.903603, -7.526536] },
+      "properties": {
+        "pid": 40,
+        "nama": "Depan Pasar Kebakkramat",
+        "marker": "lighthouse-23.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [111.073856, -7.614919] },
+      "properties": {
+        "pid": 41,
+        "nama": "Depan terminal Wisata Karangpandan",
+        "marker": "lighthouse-21.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [111.081061, -7.616003] },
+      "properties": {
+        "pid": 42,
+        "nama": "Barat Persimpangan Keprabon Karangpandan",
+        "marker": "lighthouse-21.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [111.081756, -7.616464] },
+      "properties": {
+        "pid": 43,
+        "nama": "Timur Persimpangan Keprabon Karangpandan",
+        "marker": "lighthouse-21.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [110.806367, -7.4676] },
+      "properties": {
+        "pid": 44,
+        "nama": "Depan Polsek Gondangrejo",
+        "marker": "lighthouse-23.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [110.805736, -7.465089] },
+      "properties": {
+        "pid": 45,
+        "nama": "Depan Pasar Gondangrejo",
+        "marker": "lighthouse-21.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [110.805528, -7.464072] },
+      "properties": {
+        "pid": 46,
+        "nama": "Utara Pasar Gondangrejo",
+        "marker": "lighthouse-21.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [110.922757, -7.60604] },
+      "properties": {
+        "pid": 47,
+        "nama": "Perempatan Ocak Acik Jati",
+        "marker": "lighthouse-21.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [110.904874, -7.524881] },
+      "properties": {
+        "pid": 48,
+        "nama": "Kramat, Kemiri (dari Utara)",
+        "marker": "lighthouse-21.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [110.88855, -7.575405] },
+      "properties": {
+        "pid": 49,
+        "nama": "Barat SMP Negeri 1 Jaten",
+        "marker": "lighthouse-23.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [110.9021487, -7.5802499] },
+      "properties": {
+        "pid": 50,
+        "nama": "Depan PT.Gunung Subur ",
+        "marker": "lighthouse-21.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [110.927609, -7.5867805] },
+      "properties": {
+        "pid": 51,
+        "nama": "Badran Baru, Selatan RS PKU Muhammadiyah.",
+        "marker": "lighthouse-22.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [110.944245, -7.5826356] },
+      "properties": {
+        "pid": 52,
+        "nama": "Barat Jafar Medika.",
+        "marker": "lighthouse-21.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [110.7492633, -7.5326746] },
+      "properties": {
+        "pid": 53,
+        "nama": "Depan Kecamatan Colomadu",
+        "marker": "lighthouse-23.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [110.76255, -7.5396834] },
+      "properties": {
+        "pid": 54,
+        "nama": "Depan Alfamidi Colomadu",
+        "marker": "lighthouse-21.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [110.9482773, -7.5852769] },
+      "properties": {
+        "pid": 55,
+        "nama": "Barat AW Resto",
+        "marker": "lighthouse-23.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [110.9031094, -7.5269931] },
+      "properties": {
+        "pid": 57,
+        "nama": "Utara pintu tol Kebakramat ",
+        "marker": "lighthouse-21.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [110.9116076, -7.5154388] },
+      "properties": {
+        "pid": 58,
+        "nama": "Nglarangan Barat Masjid",
+        "marker": "lighthouse-21.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [110.9128365, -7.5136701] },
+      "properties": {
+        "pid": 59,
+        "nama": "Kranggansari, Kebakkramat",
+        "marker": "lighthouse-21.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [110.896448, -7.5368935] },
+      "properties": {
+        "pid": 60,
+        "nama": "Dawung, Kemiri",
+        "marker": "lighthouse-22.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [110.8953803, -7.5385066] },
+      "properties": {
+        "pid": 61,
+        "nama": "Dawung, Kemiri (dari Selatan)",
+        "marker": "lighthouse-21.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [110.9310404, -7.573921] },
+      "properties": {
+        "pid": 62,
+        "nama": "Pasar Nglano Barat Pertigaan (Timur Indomaret)",
+        "marker": "lighthouse-22.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [110.9275841, -7.5776898] },
+      "properties": {
+        "pid": 63,
+        "nama": "Pertigaan Buran (Barat PG)",
+        "marker": "lighthouse-22.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [110.8885736, -7.5754607] },
+      "properties": {
+        "pid": 64,
+        "nama": "Dagen (Barat SMP Jaten)",
+        "marker": "lighthouse-23.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [110.9387177, -7.5963563] },
+      "properties": {
+        "pid": 65,
+        "nama": "Belakang Sekretariat Daerah",
+        "marker": "lighthouse-22.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [110.932211, -7.57471] },
+      "properties": {
+        "pid": 66,
+        "nama": "Barat Pasar Nglano ",
+        "marker": "lighthouse-23.png"
+      }
+    }
+  ]
+}
